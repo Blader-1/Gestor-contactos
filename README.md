@@ -26,7 +26,7 @@ Prueba técnica desarrollada en React, TypeScript y Tailwind CSS.
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Blader-1/Gestor-contactos
    cd gestor-contactos
    ```
 
