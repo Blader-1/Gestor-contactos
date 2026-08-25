@@ -1,0 +1,37 @@
+[
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "phone": "555-0100",
+    "department": "Ventas"
+  },
+  {
+    "id": "c9bf9e57-1685-4c89-bafb-ff5af830be8a",
+    "name": "Ana Gómez",
+    "email": "ana.gomez@example.com",
+    "phone": "555-0101",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "1d2a8421-2e6b-4e89-9a74-8b6f3c4d7e9b",
+    "name": "Carlos López",
+    "email": "carlos.lopez@example.com",
+    "phone": "555-0102",
+    "department": "Marketing"
+  },
+  {
+    "id": "e8c56434-60c7-43b4-a4b5-7c5b6b8a9c2d",
+    "name": "María Rodríguez",
+    "email": "maria.rodriguez@example.com",
+    "phone": "",
+    "department": "Soporte"
+  },
+  {
+    "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+    "name": "Luis Torres",
+    "email": "luis.torres@example.com",
+    "phone": "555-0104",
+    "department": "Ventas"
+  }
+]
